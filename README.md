@@ -26,7 +26,7 @@ The pipeline combined statistical filtering, feature selection, and classificati
   - *Support Vector Classifier (SVC)*: Used for multi-class prediction (Normal, MCI, AD).  
   - *Other Classifiers*: Random Forest (RFC), Gaussian Naïve Bayes, and ensemble models were evaluated for comparison.  
 
-![Methodology Flow]<img width="599" height="632" alt="image" src="https://github.com/user-attachments/assets/8440f4cb-30b2-4bad-b362-a1fc66f869fc" />
+![Balanced Accuracy Comparison]img width="599" height="632" alt="image" src="https://github.com/user-attachments/assets/8440f4cb-30b2-4bad-b362-a1fc66f869fc" />
 
 
 ## Results
