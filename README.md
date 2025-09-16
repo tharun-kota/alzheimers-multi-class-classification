@@ -26,7 +26,7 @@ The pipeline combined statistical filtering, feature selection, and classificati
   - *Support Vector Classifier (SVC)*: Used for multi-class prediction (Normal, MCI, AD).  
   - *Other Classifiers*: Random Forest (RFC), Gaussian Naïve Bayes, and ensemble models were evaluated for comparison.  
 
-![Balanced Accuracy Comparison]img width="599" height="632" alt="image" src="https://github.com/user-attachments/assets/8440f4cb-30b2-4bad-b362-a1fc66f869fc" />
+![Balanced Accuracy Comparison](img width="599" height="632" alt="image" src="https://github.com/user-attachments/assets/8440f4cb-30b2-4bad-b362-a1fc66f869fc)
 
 
 ## Results
@@ -36,7 +36,7 @@ Our experiments demonstrated the effectiveness of feature selection and classifi
 - RFE with SVC produced the best performance, achieving a **Balanced Accuracy Score (BAS) of 72%**.  
 - ROC curves and confusion matrices confirmed that feature selection significantly improved classification robustness.  
   
-![Evaluation metrics of Different feature selection techniques]<img width="474" height="329" alt="image" src="https://github.com/user-attachments/assets/48d90844-f550-4c84-84b2-f24bd10e8ecb" />
+![Evaluation metrics of Different feature selection techniques](img width="474" height="329" alt="image" src="https://github.com/user-attachments/assets/48d90844-f550-4c84-84b2-f24bd10e8ecb)
   
 
 ## Dependencies
